@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jyothika Veeramalla
 
-🎓 A third-year B.Tech student specializing in **Artificial Intelligence and Machine Learning**, with a strong passion for technology and innovation.
+🎓 A final year B.Tech student specializing in **Artificial Intelligence and Machine Learning**, with a strong passion for technology and innovation.
 
 ---
 
